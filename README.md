@@ -1,7 +1,5 @@
 # KL-Divergence-vs-Cross-Entropy-on-CIFAR-10
 
-# 🔍 KL Divergence vs Cross-Entropy on CIFAR-10
-
 **How minimizing KL divergence is mathematically equivalent to minimizing cross-entropy in practice**
 
 
