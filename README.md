@@ -74,7 +74,7 @@ python src/evaluate.py
 | SmallNet  | KL Divergence    | Soft       | 4.00                 | 67.78                    |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/.../loss_accuracy_curves.png" alt="Training Curves" width="80%">
+  <img src="curves.png" alt="Training Curves" width="80%">
 </p>
 
 ## ✅ Conclusion
